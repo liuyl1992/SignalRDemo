@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79d1f107-f3af-4a93-bf5d-49ef6a46e50e": {
+      "ProjectGuid": "79d1f107-f3af-4a93-bf5d-49ef6a46e50e",
+      "DisplayName": "IdentityServer",
+      "ColorIndex": 0
+    },
+    "75dfcde7-d439-45d1-a1ed-2fb6c535f2df": {
+      "ProjectGuid": "75dfcde7-d439-45d1-a1ed-2fb6c535f2df",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    },
+    "08c496d7-9a83-4b2b-a7e4-74a283034313": {
+      "ProjectGuid": "08c496d7-9a83-4b2b-a7e4-74a283034313",
+      "DisplayName": "Api",
+      "ColorIndex": 2
+    },
+    "5f4da62e-b252-4685-947b-3374680efc86": {
+      "ProjectGuid": "5f4da62e-b252-4685-947b-3374680efc86",
+      "DisplayName": "DataExchangeServer",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

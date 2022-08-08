@@ -1,0 +1,9 @@
+{
+  "NetProDependencyStartup": 0,
+  "NetProSerilogStartup": 0,
+  "ErrorHandlerStartup": 0,
+  "NetProCoreStartup": 0,
+  "StaticFilesStartup": 100,
+  "RoutingStartup": 200,
+  "EndpointsStartup": 300
+}
